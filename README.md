@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @electrocuten, aka Daniel R, a RPA and Python Developer
+- 👋 Hi, I’m Daniel R, aka @electrocuten, a RPA and Python Developer
 - 👀 I’m interested in Machine Learning, Data Science and RPA
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Amazon
